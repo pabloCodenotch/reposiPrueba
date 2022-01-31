@@ -1,0 +1,19 @@
+{
+  "name": "reposiprueba",
+  "version": "1.0.0",
+  "description": "En lo concerniente al reto 1 de GIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pabloCodenotch/reposiPrueba.git"
+  },
+  "author": "Skynet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pabloCodenotch/reposiPrueba/issues"
+  },
+  "homepage": "https://github.com/pabloCodenotch/reposiPrueba#readme"
+}

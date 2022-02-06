@@ -1,11 +1,4 @@
 
-// SUMA
-
-let suma = (operation="sum",v1,v2=0) => {if(operation == "sum")
-{
-    let resultado = v1 + v2;
-    return resultado;
-}}
 
 // RESTA
 

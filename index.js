@@ -1,9 +1,9 @@
 
 // SUMA
 
-let suma = (operation="sum",v1,v2=0) => {if(operation == "sum")
+let suma = (operation="sum",v1,v2=0,v3) => {if(operation == "sum")
 {
-    let resultado = v1 + v2;
+    let resultado = v1 + v2 + v3;
     return resultado;
 }}
 

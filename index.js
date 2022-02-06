@@ -1,4 +1,14 @@
 
+<<<<<<< HEAD
+=======
+// SUMA
+
+let suma = (operation="sum",v1,v2=0,v3) => {if(operation == "sum")
+{
+    let resultado = v1 + v2 + v3;
+    return resultado;
+}}
+>>>>>>> rama2
 
 // RESTA
 
